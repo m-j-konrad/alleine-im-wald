@@ -24,8 +24,8 @@ VERSIONEN
 
 v0.3.2.1
 
-- Hauptmenü (damit man nicht immer das "Intro" angucken muss...
-
+- Hauptmenü (damit man nicht immer das "Intro" angucken muss)...
+- Jetzt auf GitHub zu finden, für Versionskontrolle und Backup und ein wenig Ordnung (wird ja doch etwas größeres Projekt)
 
 v0.3.2.0
 
@@ -88,9 +88,7 @@ Davor:
 Rechtliches:
 
 ALLEINE IM WALD ist Copyright(C) 2020 Marcel J. Konrad.
-Alle Rechte liegen beim Autor.
-Quellcode gebe ich gern weiter; E-Mail an
-mjkmail(AT)web.de
+ALLEINE IM WALD unterliegt der GNU GERNERAL PUBLIC LICENSE v3.
 ALLEINE IM WALD wurde mit dem Adventure Game Studio 3.5.0 von Chris Jones erstellt.
 AGS unterliegt der Artistic License 2.0.
 
