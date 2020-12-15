@@ -18,6 +18,14 @@ DANKE an:
 - Spencer Kimball, Peter Mattis und das GIMP-Entwicklerteam
 
 
+Checke am Besten einmal die Einstellungen, damit das Spiel vernünftig angezeigt wird.
+Startmenü > Alleine im Wald > Einstellungen:
+Mode: Desktop Resolution
+Fullscreen scale: Stretch
+> Save (oder Save and run, um direkt zu starten)
+
+Viel Spaß!
+
 
 
 VERSIONEN
@@ -97,7 +105,7 @@ OHNE JEDE GEWÄHRLEISTUNG, bereitgestellt; sogar ohne die implizite
 Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
 
 TrueType font display benutzt ALFont von Javier Gonzalez und dem FreeType project. Herausgegeben unter den Bedingungen der FreeType Project license.
-Der OGG Vorbis player ist alogg von Javier Gonzalez, und benutzt den Ogg Vorbis decoder, welcher unter https://www.xiph.org/ erhÃ¤ltlich ist. Copyright (c) 2002, Xiph.org Foundation
+Der OGG Vorbis player ist alogg von Javier Gonzalez, und benutzt den Ogg Vorbis decoder, welcher unter https://www.xiph.org/ erhältlich ist. Copyright (c) 2002, Xiph.org Foundation
 Der OGG Theora player ist APEG von Chris Robinson, benutzt den Ogg Theora decoder, Copyright (C) 2002-2008 Xiph.Org Foundation and contributors.
 Der MP3 player ist almp3 v2.0.4, von Javier Gonzalez und dem MPG123 team. Er benutzt den mpg123 MP3 decoder, und ist auch unter der GNU Lesser General Public License version 2.1 erschienen.
 Pentium ist eine Handelsmarke der Intel corporation. Windows ist eine Handelsmarke der Microsoft corp.
