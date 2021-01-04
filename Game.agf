@@ -22,11 +22,11 @@
       <LetterboxMode>False</LetterboxMode>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <PixelPerfect>True</PixelPerfect>
-      <WhenInterfaceDisabled>GoBlack</WhenInterfaceDisabled>
+      <WhenInterfaceDisabled>TurnOff</WhenInterfaceDisabled>
       <GUIAlphaStyle>MultiplyTranslucenceSrcBlend</GUIAlphaStyle>
       <SpriteAlphaStyle>Improved</SpriteAlphaStyle>
-      <RunGameLoopsWhileDialogOptionsDisplayed>False</RunGameLoopsWhileDialogOptionsDisplayed>
-      <InventoryHotspotMarkerStyle>Sprite</InventoryHotspotMarkerStyle>
+      <RunGameLoopsWhileDialogOptionsDisplayed>True</RunGameLoopsWhileDialogOptionsDisplayed>
+      <InventoryHotspotMarkerStyle>Crosshair</InventoryHotspotMarkerStyle>
       <InventoryHotspotMarkerSprite>2059</InventoryHotspotMarkerSprite>
       <InventoryHotspotMarkerDotColor>6</InventoryHotspotMarkerDotColor>
       <InventoryHotspotMarkerCrosshairColor>5</InventoryHotspotMarkerCrosshairColor>
@@ -53,14 +53,14 @@
       <UseGlobalSpeechAnimationDelay>False</UseGlobalSpeechAnimationDelay>
       <GlobalSpeechAnimationDelay>5</GlobalSpeechAnimationDelay>
       <LegacySpeechAnimationSpeed>False</LegacySpeechAnimationSpeed>
-      <NumberDialogOptions>None</NumberDialogOptions>
+      <NumberDialogOptions>Normal</NumberDialogOptions>
       <DialogOptionsBackwards>False</DialogOptionsBackwards>
       <SpeechPortraitSide>Left</SpeechPortraitSide>
       <DialogScriptSayFunction IsNull="True" />
       <DialogScriptNarrateFunction IsNull="True" />
       <TextWindowGUI>7</TextWindowGUI>
       <AlwaysDisplayTextAsSpeech>True</AlwaysDisplayTextAsSpeech>
-      <AntiAliasFonts>False</AntiAliasFonts>
+      <AntiAliasFonts>True</AntiAliasFonts>
       <ThoughtGUI>0</ThoughtGUI>
       <BackwardsText>False</BackwardsText>
       <MaximumScore>0</MaximumScore>
@@ -77,18 +77,18 @@
       <EnhancedSaveGames>False</EnhancedSaveGames>
       <SaveGameFileExtension />
       <SaveGameFolderName xml:space="preserve">Alleine im Wald</SaveGameFolderName>
-      <BinaryFilesInSourceControl>False</BinaryFilesInSourceControl>
+      <BinaryFilesInSourceControl>True</BinaryFilesInSourceControl>
       <AudioIndexer>0</AudioIndexer>
       <BuildTargets xml:space="preserve">Windows, Linux</BuildTargets>
-      <RenderAtScreenResolution>UserDefined</RenderAtScreenResolution>
+      <RenderAtScreenResolution>True</RenderAtScreenResolution>
     </Settings>
     <RuntimeSetup>
       <GraphicsDriver>OpenGL</GraphicsDriver>
       <Windowed>False</Windowed>
       <FullscreenGameScaling>StretchToFit</FullscreenGameScaling>
-      <GameScaling>StretchToFit</GameScaling>
+      <GameScaling>ProportionalStretch</GameScaling>
       <GameScalingMultiplier>1</GameScalingMultiplier>
-      <GraphicsFilter>stdscale</GraphicsFilter>
+      <GraphicsFilter>linear</GraphicsFilter>
       <VSync>True</VSync>
       <AAScaledSprites>True</AAScaledSprites>
       <DowngradeTo16bit>False</DowngradeTo16bit>
@@ -98,7 +98,7 @@
       <UseVoicePack>True</UseVoicePack>
       <ThreadedAudio>False</ThreadedAudio>
       <Translation />
-      <AutoLockMouse>False</AutoLockMouse>
+      <AutoLockMouse>True</AutoLockMouse>
       <MouseSpeed>1</MouseSpeed>
       <SpriteCacheSize>256</SpriteCacheSize>
       <UseCustomSavePath>False</UseCustomSavePath>
@@ -3728,18 +3728,18 @@ stop
               <SpriteFolder Name="Cursors">
                 <SubFolders />
                 <Sprites>
-                  <Sprite Slot="2055" Width="26" Height="50" ColorDepth="32" Resolution="Real" AlphaChannel="False">
+                  <Sprite Slot="2055" Width="12" Height="16" ColorDepth="32" Resolution="Real" AlphaChannel="False">
                     <Source>
-                      <FileName>D:\devel\ags\Alleine im Wald\art\gui\Sanduhr.png</FileName>
+                      <FileName>D:\devel\art\Alleine im Wald\art\gui\cursor_arrow_small.png</FileName>
                       <OffsetX>0</OffsetX>
                       <OffsetY>0</OffsetY>
-                      <ImportHeight>50</ImportHeight>
-                      <ImportWidth>26</ImportWidth>
+                      <ImportHeight>16</ImportHeight>
+                      <ImportWidth>12</ImportWidth>
                       <ImportAsTile>False</ImportAsTile>
                       <Frame>0</Frame>
                       <RemapToGamePalette>False</RemapToGamePalette>
                       <RemapToRoomPalette>False</RemapToRoomPalette>
-                      <ImportMethod>TopLeft</ImportMethod>
+                      <ImportMethod>BottomRight</ImportMethod>
                       <ImportAlphaChannel>False</ImportAlphaChannel>
                     </Source>
                   </Sprite>
