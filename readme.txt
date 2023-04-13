@@ -1,30 +1,29 @@
 ALLEINE IM WALD
 
 
-Ein Adventure, in dem ein kleiner Bär in der Eifel seinen Menschen sucht,
+Ein Adventure, in dem ein kleiner BÃ¤r in der Eifel seinen Menschen sucht,
 und das hoffentlich noch mehr Story bekommt im Laufe der Zeit.
 
-Gespielt wird mit der Maus, Anleitung auf der Homepage:
-https://www.mjk-software.org/alleine-im-wald.html
+Gespielt wird mit der Maus.
 
 
 DANKE an:
 
-- Jens für den Bären
-- Mama für die Eifel
+- Jens fÃ¼r den BÃ¤ren
+- Mama fÃ¼r die Eifel
 - Alle Leute die spielen
-- Chris Jones für AGS,
-- Die verrückten Leute von Maniac Mansion Mania
+- Chris Jones fÃ¼r AGS,
+- Die verrÃ¼ckten Leute von Maniac Mansion Mania
 - Spencer Kimball, Peter Mattis und das GIMP-Entwicklerteam
 
 
-Checke am Besten einmal die Einstellungen, damit das Spiel vernünftig angezeigt wird.
-Startmenü > Alleine im Wald > Einstellungen:
+Checke am Besten einmal die Einstellungen, damit das Spiel vernÃ¼nftig angezeigt wird.
+StartmenÃ¼ > Alleine im Wald > Einstellungen:
 Mode: Desktop Resolution
 Fullscreen scale: Stretch
 > Save (oder Save and run, um direkt zu starten)
 
-Viel Spaß!
+Viel SpaÃŸ!
 
 
 
@@ -32,20 +31,20 @@ VERSIONEN
 
 v0.3.2.1
 
-- Hauptmenü (damit man nicht immer das "Intro" angucken muss)...
-- Jetzt auf GitHub zu finden, für Versionskontrolle und Backup und ein wenig Ordnung (wird ja doch etwas größeres Projekt)
+- HauptmenÃ¼ (damit man nicht immer das "Intro" angucken muss)...
+- Jetzt auf GitHub zu finden, fÃ¼r Versionskontrolle und Backup und ein wenig Ordnung (wird ja doch ein etwas grÃ¶ÃŸeres Projekt)
 
 v0.3.2.0
 
-- ein missmutiges Wisent bereichert jetzt das Dasein des Bären!
+- ein missmutiges Wisent bereichert jetzt das Dasein des BÃ¤ren!
 - Probleme mit der Navigation insgesamt behoben. Es ist jetzt einfacher, Szenen zu wechseln
 
 
 v0.3.1.3
 
-- Der Bär hat ein neues Design und kann jetzt Diagonal laufen
-- außerdem läuft er jetzt zu den Hotspots, wenn er interagiert (hatte ich schlicht vergessen...)
-- Der Bär bekommt Gesellschaft!
+- Der BÃ¤r hat ein neues Design und kann jetzt Diagonal laufen
+- auÃŸerdem lÃ¤uft er jetzt zu den Hotspots, wenn er interagiert (hatte ich schlicht vergessen...)
+- Der BÃ¤r bekommt Gesellschaft!
 - kleine Probleme mit der Navigation bei der Wiese behoben (linker Wald/rechter Wald)
 
 
@@ -59,35 +58,35 @@ v0.3.1.1
 - ein paar neue Bilder
 - Textdatei in ANSI-Kodierung umgewandelt
 - Installationsprogramm!
-- Bär-Icons
-- neue Menüs (trotzdem noch viel zu tun)
+- BÃ¤r-Icons
+- neue MenÃ¼s (trotzdem noch viel zu tun)
 - neue Icons und Mauszeiger
 - ein paar Grafikfehler behoben
 - "Roger" schwebt immer noch herum, ist jetzt aber unsichtbar und hat keine
   Interaktionen mehr (de facto isser weg).
-  Wenn ich ihn komplett lösche, bleibt der Bär für immer im Startbildschirm hängen (?!)
+  Wenn ich ihn komplett lÃ¶sche, bleibt der BÃ¤r fÃ¼r immer im Startbildschirm hÃ¤ngen (?!)
 - Marcel hat zu wenig geschlafen und fast nix gegessen
 
 
 v0.3.1.0
 
 - Grafikfehler in Bild 3 bei dem Loch im Boden, wenn man links aus dem
-  Bild läuft (Überlappung)
-- Bär "solpert" manchmal ohne Hindernis
+  Bild lÃ¤uft (Ãœberlappung)
+- BÃ¤r "solpert" manchmal ohne Hindernis
 - der alte "Roger", winzig klein, "schwebt" noch manchmal im Bild herum :-D
-- Menüs sind durcheinander wegen neuer Auflösung
+- MenÃ¼s sind durcheinander wegen neuer AuflÃ¶sung
 
 
 v0.3.0.0
 
-- Ein kleiner Bär ist jetzt der Held!
-- Auflösung 1280x720 (Seitenverhältnis wie bei meiner Kamera)
+- Ein kleiner BÃ¤r ist jetzt der Held!
+- AuflÃ¶sung 1280x720 (SeitenverhÃ¤ltnis wie bei meiner Kamera)
 
 
 Davor:
 
-- Auflösung 320x240 (seehr pixelig)
-- Standartmenü
+- AuflÃ¶sung 320x240 (seehr pixelig)
+- StandartmenÃ¼
 - "Roger" (Insider kennen ihn) ist Hauptfigur
 - so gut wie kein Scripting
 
@@ -101,11 +100,11 @@ ALLEINE IM WALD wurde mit dem Adventure Game Studio 3.5.0 von Chris Jones erstel
 AGS unterliegt der Artistic License 2.0.
 
 ALLEINE IM WALD wird in der Hoffnung, dass es Freude bereitet, aber
-OHNE JEDE GEWÄHRLEISTUNG, bereitgestellt; sogar ohne die implizite
-Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK.
+OHNE JEDE GEWÃ„HRLEISTUNG, bereitgestellt; sogar ohne die implizite
+GewÃ¤hrleistung der MARKTFÃ„HIGKEIT oder EIGNUNG FÃœR EINEN BESTIMMTEN ZWECK.
 
 TrueType font display benutzt ALFont von Javier Gonzalez und dem FreeType project. Herausgegeben unter den Bedingungen der FreeType Project license.
-Der OGG Vorbis player ist alogg von Javier Gonzalez, und benutzt den Ogg Vorbis decoder, welcher unter https://www.xiph.org/ erhältlich ist. Copyright (c) 2002, Xiph.org Foundation
+Der OGG Vorbis player ist alogg von Javier Gonzalez, und benutzt den Ogg Vorbis decoder, welcher unter https://www.xiph.org/ erhÃ¤ltlich ist. Copyright (c) 2002, Xiph.org Foundation
 Der OGG Theora player ist APEG von Chris Robinson, benutzt den Ogg Theora decoder, Copyright (C) 2002-2008 Xiph.Org Foundation and contributors.
 Der MP3 player ist almp3 v2.0.4, von Javier Gonzalez und dem MPG123 team. Er benutzt den mpg123 MP3 decoder, und ist auch unter der GNU Lesser General Public License version 2.1 erschienen.
 Pentium ist eine Handelsmarke der Intel corporation. Windows ist eine Handelsmarke der Microsoft corp.
